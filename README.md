@@ -12,7 +12,7 @@ Vignesh Venkateswaran.
 
 Idea 1:
 
-Project title- Personalized Cook book using Alexa
+Project title- Personalized Cook book using Alexa  ****APPROVED**** Please remove the others from the README thx
 
 Project Description-
 
