@@ -4,7 +4,6 @@ Project Abstract
 Team Name : Project Team 21
 
 Team Members:
-Kashika Jain,
 Pranjali Sanjay Raje,
 Premal Dattatray Samale,
 Vignesh Venkateswaran.
