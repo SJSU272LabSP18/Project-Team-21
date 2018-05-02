@@ -1,0 +1,6 @@
+/home/premal/eclipse-workspace/MealPlanner/src/main/java/edu/sjsu/mealplanner/dynamodb/DynamoDBHandler.java
+/home/premal/eclipse-workspace/MealPlanner/src/main/java/edu/sjsu/mealplanner/AlexaRequestHandler.java
+/home/premal/eclipse-workspace/MealPlanner/src/main/java/edu/sjsu/mealplanner/IntentRequestHandler.java
+/home/premal/eclipse-workspace/MealPlanner/src/main/java/edu/sjsu/mealplanner/dynamodb/package-info.java
+/home/premal/eclipse-workspace/MealPlanner/src/main/java/edu/sjsu/mealplanner/AlexaResponseProcessor.java
+/home/premal/eclipse-workspace/MealPlanner/src/main/java/edu/sjsu/mealplanner/LambdaFunctionHandler.java

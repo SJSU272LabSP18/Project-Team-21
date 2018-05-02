@@ -1,0 +1,14 @@
+edu/sjsu/mealplanner/TestUtils$TestJacksonMapperModule.class
+edu/sjsu/mealplanner/TestUtils$1.class
+edu/sjsu/mealplanner/LambdaFunctionHandlerTest.class
+edu/sjsu/mealplanner/TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+edu/sjsu/mealplanner/TestContext$TestLogger.class
+edu/sjsu/mealplanner/TestUtils$DateTimeSerializer.class
+edu/sjsu/mealplanner/TestUtils$DynamodbEventMixin$RecordMixin.class
+edu/sjsu/mealplanner/TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+edu/sjsu/mealplanner/TestUtils$DynamodbEventMixin.class
+edu/sjsu/mealplanner/TestUtils.class
+edu/sjsu/mealplanner/TestContext$1.class
+edu/sjsu/mealplanner/TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+edu/sjsu/mealplanner/TestUtils$DateTimeDeserializer.class
+edu/sjsu/mealplanner/TestContext.class

@@ -1,0 +1,5 @@
+edu/sjsu/mealplanner/IntentRequestHandler.class
+edu/sjsu/mealplanner/LambdaFunctionHandler.class
+edu/sjsu/mealplanner/AlexaRequestHandler.class
+edu/sjsu/mealplanner/AlexaResponseProcessor.class
+edu/sjsu/mealplanner/dynamodb/DynamoDBHandler.class
