@@ -28,12 +28,14 @@ Things used in this project:
 Online Services:
 
 Amazon Web Services AWS Lambda
-Amazon Alexa Alexa Skills Kit
+
+Amazon Alexa Skills Kit
+
 Amazon DyanamoDB
+
 Amazon Cloud watch
 
 Harware component:
-
 Amazon Echo Dot
 
 Language:Java 1.8
