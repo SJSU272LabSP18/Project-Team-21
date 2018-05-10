@@ -1,6 +1,8 @@
 
 Project Abstract
 
+Project title- Cook book using Alexa -  ****APPROVED**** 
+
 Team Name : Project Team 21
 
 Team Members:
@@ -9,7 +11,7 @@ Premal Dattatray Samale,
 Vignesh Venkateswaran.
 
 
-Project title- Personalized Cook book using Alexa -  ****APPROVED**** 
+
 
 Project Description-
 
