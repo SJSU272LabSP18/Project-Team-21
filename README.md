@@ -31,7 +31,7 @@ Amazon Web Services AWS Lambda
 
 Amazon Alexa Skills Kit
 
-Amazon DyanamoDB
+Amazon DynamoDB
 
 Amazon Cloud watch
 
